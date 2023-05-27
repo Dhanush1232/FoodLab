@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FoodLab/static/css/main.dca73a84.css",
-    "main.js": "/FoodLab/static/js/main.d626bd07.js",
+    "main.js": "/FoodLab/static/js/main.bfd0b7e0.js",
     "static/js/787.c4e7f8f9.chunk.js": "/FoodLab/static/js/787.c4e7f8f9.chunk.js",
     "static/media/third.jpg": "/FoodLab/static/media/third.0934314f3add2e83fcc6.jpg",
     "static/media/first.jpg": "/FoodLab/static/media/first.4853c9656c549ee73724.jpg",
@@ -9,11 +9,11 @@
     "static/media/food_logo.png": "/FoodLab/static/media/food_logo.5542bfd9d8c4616e2dc3.png",
     "index.html": "/FoodLab/index.html",
     "main.dca73a84.css.map": "/FoodLab/static/css/main.dca73a84.css.map",
-    "main.d626bd07.js.map": "/FoodLab/static/js/main.d626bd07.js.map",
+    "main.bfd0b7e0.js.map": "/FoodLab/static/js/main.bfd0b7e0.js.map",
     "787.c4e7f8f9.chunk.js.map": "/FoodLab/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dca73a84.css",
-    "static/js/main.d626bd07.js"
+    "static/js/main.bfd0b7e0.js"
   ]
 }
